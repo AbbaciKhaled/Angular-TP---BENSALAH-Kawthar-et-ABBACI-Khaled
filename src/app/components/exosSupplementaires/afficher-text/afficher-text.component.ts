@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
-import {DataButton} from '../../model/dataButton';
-import { Button } from '../../model/button';
+import {DataButton} from '../../../model/dataButton';
+import { Button } from '../../../model/button';
 
 @Component({
   selector: 'app-afficher-text',
