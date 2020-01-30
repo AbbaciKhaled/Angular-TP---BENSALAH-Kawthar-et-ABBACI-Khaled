@@ -163,8 +163,9 @@ input[type="submit"]:hover{
     background: black;
 	p{
 	      font-family: "Trebuchet MS", Helvetica, sans-serif;
-        font-size: 16pt;
-        margin-left: 1%;
+        	font-size: 16pt;
+        	margin-left: 1%;
+		margin-bottom: 0;
 		color: rgba($color: #FFFFFF, $alpha: .7);
 	}
   border-bottom-color:  rgb(221, 65, 65);
