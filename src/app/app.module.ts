@@ -8,12 +8,16 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { BoxOfficeComponent } from './components/box-office/box-office.component';
 import { MovieComponent } from './components/movie/movie.component';
+import { Exercice1Component } from './components/exercice1/exercice1.component';
+import { HorlogeComponent } from './components/horloge/horloge.component';
 @NgModule({
   declarations: [
     AppComponent,
     Exercice2Component,
     BoxOfficeComponent,
     MovieComponent,
+    Exercice1Component,
+    HorlogeComponent,
   ],
   imports: [
     BrowserModule,
