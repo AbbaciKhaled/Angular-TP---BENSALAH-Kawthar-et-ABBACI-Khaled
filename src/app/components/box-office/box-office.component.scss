@@ -116,11 +116,11 @@ body, html {
 		}
 
 		.prev span {
-			border-color: transparent rgba(255,255,255,.09) transparent transparent;
+			border-color: transparent rgba(255,0,0,.5) transparent transparent;
 			right: 35%;
 		}
 		.next span {
-			border-color: transparent transparent transparent rgba(255,255,255,.09);
+			border-color: transparent transparent transparent rgba(255,0,0,.5);
 			left: 35%;
 		}
 	}
