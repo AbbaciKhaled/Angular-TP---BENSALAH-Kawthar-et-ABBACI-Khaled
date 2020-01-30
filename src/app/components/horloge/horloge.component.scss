@@ -49,3 +49,20 @@
   filter: drop-shadow(0 0 0.1rem rgb(247, 4, 4));
   
   }
+
+@media only screen and (max-width: 1255px) {
+    .clock {
+      background-size: 50%;
+      margin-left: 12%;
+      margin-right: 12%;
+      size: 50%;
+      height: 0.2em;
+      width: 20em;
+    }
+    .hand {
+    transform-origin: 0 0;
+    top:75px;
+    left:60%;
+    width:10%;
+    }
+  }
